@@ -1,5 +1,5 @@
 ### EX6 Information Retrieval Using Vector Space Model in Python
-### DATE: 25.3.2024
+### DATE: 29.3.2024
 ### AIM: 
 To implement Information Retrieval Using Vector Space Model in Python.
 ### Description: 
